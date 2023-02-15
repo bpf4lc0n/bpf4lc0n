@@ -11,11 +11,10 @@
 	</div>
 
 
----
+--
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
----
 
 I am a Full Stack Developer from Cuba.
 
